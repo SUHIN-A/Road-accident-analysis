@@ -59,4 +59,10 @@ A comprehensive dashboard visualizing UK road accident data to uncover trends, r
 
 ---
 
-## 📁 Project Structure
+## 📌 Key Insights
+
+- Car-related accidents dominate total casualties  
+- Urban areas account for the majority of incidents  
+- Most accidents occur during daylight  
+- Single carriageways are the most accident-prone road type  
+- Casualties have declined year-over-year across all severity levels
