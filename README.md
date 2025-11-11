@@ -13,8 +13,6 @@ This project presents a comprehensive dashboard for analyzing road accident data
 - **Geospatial Mapping**: UK map with accident location markers
 - **Interactive Filters**: Dropdowns for road surface and weather conditions
 
-## 📁 Folder Structure
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
