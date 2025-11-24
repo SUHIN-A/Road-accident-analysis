@@ -52,8 +52,6 @@ A comprehensive dashboard visualizing UK road accident data to uncover trends, r
 
 ## 🛠️ Technologies Used
 
-- **Data Analysis**: Python (Pandas, NumPy)
-- **Visualization**: Matplotlib, Seaborn, Plotly
 - **Dashboard Tools**: Power BI / Tableau / Jupyter Notebook
 - **Mapping**: GeoPandas / Folium (if applicable)
 
